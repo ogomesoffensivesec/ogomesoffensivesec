@@ -1,11 +1,11 @@
 
 Olá! Eu sou o Igor Gomes!
 
-💞️ - Quero continuar contribuindo com o desenvolvimento,egurança e expansão de novas tecnologias!
+💞️ - Quero continuar contribuindo com o desenvolvimento, segurança e expansão de novas tecnologias!
 
-⚡ - Meus pontos fortes estão na análise de vulnerabilidades, desenvolvimento de scripts para OFFENSIVE SECURITY e ferramentes para pentest.
 
-💻 - Pentester Profissional.
+
+💻 - Pentester and Python Dev.
 
 
 <div style="display: inline_block"> 
