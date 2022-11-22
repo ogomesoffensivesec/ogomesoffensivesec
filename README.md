@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨🏽‍💻 I'm 21 years old and I'm Brazilian<br>🌟 My favorite technology area is Mobile App Development and back-end functions for improvements in the real world cases<br>📚 I'm studying and practicing React Native and ReactJS<br>🖥️ I' currently work on Full Stack developer
+🔃 Estou atualizando meu repositório diariamente, pois me renovei como Desenvolvedor desde que aprendi React/React-Native
 
 
 ## 🌐 Socials:
