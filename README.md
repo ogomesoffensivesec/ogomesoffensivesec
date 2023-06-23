@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏽‍💻 I'm 21 years old and I'm Brazilian<br><br>🌟 For me, soft skills are just as important as hard skills. I believe that, even without completely mastering a certain subject, it is possible to develop technical skills in a healthy and solid way through proactivity, emotional intelligence and efficient communication. I value the combination of these aspects for personal and professional growth.<br<br>📚 I'm studying and practicing React Native and ReactJS<br><br>🖥️ I' currently work on Full Stack developer <br><br>
+👨🏽‍💻 I'm 21 years old and I'm Brazilian<br><br>🌟 For me, soft skills are just as important as hard skills. I believe that, even without completely mastering a certain subject, it is possible to develop technical skills in a healthy and solid way through proactivity, emotional intelligence and efficient communication. I value the combination of these aspects for personal and professional growth. <br><br>📚 I'm studying and practicing React Native and ReactJS<br><br>🖥️ I' currently work on Full Stack developer <br><br>
 
 
 
